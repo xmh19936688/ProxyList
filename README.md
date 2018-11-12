@@ -10,6 +10,8 @@
 
 ## [free-ss.tk](https://free-ss.tk/)
 
+## [free-ss](https://github.com/max2max/freess)
+
 ## [ss](https://github.com/shadowsocks)
 
 ## [ssr](https://github.com/shadowsocksr-backup)
